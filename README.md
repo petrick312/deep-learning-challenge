@@ -47,3 +47,5 @@ Overall, by increasing the accuracy to 78%, we are able to correctly classify ea
 -	The CLASSIFICATION is one the following: C1000, C2000, C3000, C1200 or C2100
 
 
+** Notes: **
+Worked with other student (H.Koleti) as well as TA (S.Rosalia) to complete assignment 
