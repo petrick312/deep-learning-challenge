@@ -36,11 +36,12 @@ For this model, I added and utilized a third hidden layer since this seemed to b
 
 # Were you able to achieve the target model performance?
 Yes, I was able to run the model at an accuracy of 78%. 
- ![IMAGE_DESCRIPTION](url_of_image)
+ ![accuracy](https://github.com/petrick312/deep-learning-challenge/blob/main/img/accuracy.png?raw=true)
 
 # What steps did you take in your attempts to increase model performance?
 Converting the column NAME into data points seemed to have the largest impact on improving efficiency, as well as changing the 2nd and 3rd activation function to sigmoid. 
- 
+  ![accuracy](https://github.com/petrick312/deep-learning-challenge/blob/main/img/layers.png?raw=true)
+
 ## Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and then explain your recommendation.
 Overall, by increasing the accuracy to 78%, we are able to correctly classify each point of data 78% of the time. An applicant has a higher chance at being successful if they have the following factors:
 -	If the applicant has applied more that 5 times (NAME appears more than 5 times)
