@@ -45,6 +45,8 @@ Overall, by increasing the accuracy to 78%, we are able to correctly classify ea
 -	If the applicant has applied more that 5 times (NAME appears more than 5 times)
 -	The APPLICATION_TYPE is one of the following: T3 thru T10 or T19
 -	The CLASSIFICATION is one the following: C1000, C2000, C3000, C1200 or C2100
+<br>
+Random Forest is a commonly-used machine learning algorithm, that combines the output of multiple decision trees to reach a single result. It handles both classification and regression problems, therefore I would recommend this model to try to solve the classification problem. 
 
 <br>
 <br>
