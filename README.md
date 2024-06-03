@@ -41,7 +41,7 @@ Converting the column NAME into data points seemed to have the largest impact on
 
 ## Summary 
 ### Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and then explain your recommendation.
-Overall, by increasing the accuracy to 78%, we are able to correctly classify each point of data 78% of the time. An applicant has a higher chance at being successful if they have the following factors:
+Overall, by increasing the accuracy to 78%, we are able to correctly classify each point of data 78% of the time. Based on the data, it seems that an applicant may have a higher chance at being successful if they have the following factors:
 -	If the applicant has applied more that 5 times (NAME appears more than 5 times)
 -	The APPLICATION_TYPE is one of the following: T3 thru T10 or T19
 -	The CLASSIFICATION is one the following: C1000, C2000, C3000, C1200 or C2100
